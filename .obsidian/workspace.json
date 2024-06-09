@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b28a3cb83116312c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4078be84a439b852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202eda3d15e97459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Algorithms/LeetCode/Array and Hashing/217. Contains Duplicate.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d04a979291c04a2e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/app.json",
+                "staged": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "443fd34e2d2b6199",
+    "type": "split",
+    "children": [
+      {
+        "id": "d517e4356faaac32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d0f0c60a58f573",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a4baf9e76ed352e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b1ef09771be6743",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c65fb08a0aadb682",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a236fc55384cd25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a0fc3b451371a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54fd7d894e0bfcc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8c53788fbb67bde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbb2493c30307b6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9465e703277978e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d04a979291c04a2e",
+  "lastOpenFiles": [
+    "Data Structures and Algorithms/LeetCode/Array and Hashing/Array and Hashing.md",
+    "Data Structures and Algorithms/LeetCode/Array and Hashing/242. Valid Anagram.md",
+    "Data Structures and Algorithms/LeetCode/Array and Hashing/1. Two Sum.md",
+    "Data Structures and Algorithms/LeetCode/Array and Hashing/217. Contains Duplicate.md",
+    "media/Pasted image 20240609162432.png",
+    "media/Pasted image 20240609162400.png",
+    "media/Pasted image 20240609162345.png",
+    "Data Structures and Algorithms/LeetCode/LeetCode.md",
+    "media/Pasted image 20240609161831.png",
+    "media/Pasted image 20240609143702.png",
+    "media/Pasted image 20240609143626.png",
+    "().md",
+    "media/Pasted image 20240609142614.png",
+    "Pasted image 20240609142220.png",
+    "media",
+    "Data Structures and Algorithms/LeetCode/Linked List",
+    "Data Structures and Algorithms/LeetCode/Array and Hashing",
+    "Data Structures and Algorithms/LeetCode",
+    "Data Structures and Algorithms/Без названия.md",
+    "Data Structures and Algorithms",
+    "Test.md",
+    "test/test2.md",
+    "test"
+  ]
+}
