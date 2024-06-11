@@ -6,4 +6,6 @@
 | [[49. Group Anagrams]]                | <font color="#FFFF00"> Medium</font> | `Array` `HashTable` `String` `Sorting` | https://leetcode.com/problems/group-anagrams/description/                               |
 | [[347. Top K Frequent Elements]]      | <font color="#FFFF00"> Medium</font> | `Array` `HashTable` `Sorting` `Heap`   | https://leetcode.com/problems/top-k-frequent-elements/description/?source=submission-ac |
 | [[238. Product of Array Except Self]] | <font color="#FFFF00"> Medium</font> | `Array` `PrefixSum`                    | https://leetcode.com/problems/product-of-array-except-self/description/                 |
-| [[36. Valid Sudoku]]                  |                                      |                                        |                                                                                         |
+| [[36. Valid Sudoku]]                  | <font color="#FFFF00"> Medium</font> | `Array` `HashTable` `Matrix`           | https://leetcode.com/problems/valid-sudoku/description/                                 |
+| [[128. Longest Consecutive Sequence]] |                                      |                                        |                                                                                         |
+|                                       |                                      |                                        |                                                                                         |
