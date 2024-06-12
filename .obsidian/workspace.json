@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/125. Valid Palindrome.md",
+                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/Two Pointers.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/125. Valid Palindrome.md",
+                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/Two Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/125. Valid Palindrome.md",
+                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/Two Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/125. Valid Palindrome.md"
+                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/Two Pointers.md"
               }
             }
           },
@@ -157,13 +157,15 @@
   },
   "active": "8f8291708633cc57",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/LeetCode/TwoPointers/167. Two Sum II - Input Array Is Sorted.md",
+    "media/Pasted image 20240612170026.png",
+    "Data Structures and Algorithms/LeetCode/TwoPointers/Two Pointers.md",
+    "Data Structures and Algorithms/LeetCode/Array and Hashing/Array and Hashing.md",
     "Data Structures and Algorithms/LeetCode/TwoPointers/125. Valid Palindrome.md",
     "media/Pasted image 20240612141012.png",
     "Data Structures and Algorithms/LeetCode/LeetCode.md",
-    "Data Structures and Algorithms/LeetCode/Array and Hashing/Array and Hashing.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/347. Top K Frequent Elements.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/242. Valid Anagram.md",
-    "Data Structures and Algorithms/LeetCode/TwoPointers/Two Pointers.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/238. Product of Array Except Self.md",
     "Data Structures and Algorithms/LeetCode/TwoPointers",
     "Data Structures and Algorithms/LeetCode/Linked List/Linked List.md",
@@ -185,7 +187,6 @@
     "media/Pasted image 20240609193507.png",
     "media/Pasted image 20240609192648.png",
     "2024-06-09.md",
-    "media/Pasted image 20240609142614.png",
     "().md",
     "media",
     "Data Structures and Algorithms/LeetCode/Linked List",
