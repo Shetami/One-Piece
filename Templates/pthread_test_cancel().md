@@ -1,1 +1,1 @@
-`pthread_test_cancel` 
+`pthread_test_cancel()` 
