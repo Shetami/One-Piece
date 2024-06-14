@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7373afae92868ecd",
+        "id": "ac5cd6cf2f150030",
         "type": "tabs",
         "children": [
           {
-            "id": "04fb3d0b6931359e",
+            "id": "9cdfa7e918e0a7d8",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": true
+                "file": "Multithreading/POSIX Threads.md",
+                "staged": false
               }
             }
           }
@@ -150,23 +150,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04fb3d0b6931359e",
+  "active": "9cdfa7e918e0a7d8",
   "lastOpenFiles": [
+    "Templates/pthread_cleanup_push(func).md",
+    "Templates/pthread_cleanup_push.md",
+    "Templates/pthread_cancel(thread).md",
+    "Templates/pthread_cleanap_pop(func).md",
+    "Templates/pthread_test_cancel().md",
     "Multithreading/POSIX Threads.md",
+    "Data Structures and Algorithms/LeetCode/LeetCode.md",
+    "Templates/pthread_join(thread).md",
+    "Templates",
     "Multithreading/билеты.md",
+    "Multithreading",
     "Data Structures and Algorithms/LeetCode/TwoPointers/167. Two Sum II - Input Array Is Sorted.md",
     "Data Structures and Algorithms/LeetCode/TwoPointers/15. 3Sum.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/49. Group Anagrams.md",
     "Data Structures and Algorithms/LeetCode/TwoPointers/11. Container With Most Water.md",
     "conflict-files-obsidian-git.md",
-    "Templates/pthread_test_cancel().md",
-    "Templates/pthread_join(thread).md",
-    "Templates/pthread_cleanup_push.md",
-    "Templates/pthread_cleanup_push(func).md",
-    "Templates/pthread_cleanap_pop(func).md",
-    "Templates/pthread_cancel(thread).md",
-    "Templates",
-    "Multithreading",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/238. Product of Array Except Self.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/217. Contains Duplicate.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/128. Longest Consecutive Sequence.md",
@@ -184,13 +185,11 @@
     "media/Pasted image 20240609161831.png",
     "media/Pasted image 20240609143702.png",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/Array and Hashing.md",
-    "Data Structures and Algorithms/LeetCode/LeetCode.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/347. Top K Frequent Elements.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/242. Valid Anagram.md",
     "Data Structures and Algorithms/LeetCode/TwoPointers",
     "Data Structures and Algorithms/LeetCode/Linked List/Linked List.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/1. Two Sum.md",
-    "Excalidraw/Drawing 2024-06-10 22.42.49.excalidraw.md",
     "Excalidraw",
     "media",
     "Data Structures and Algorithms/LeetCode/Linked List",
