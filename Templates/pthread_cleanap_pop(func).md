@@ -1,0 +1,1 @@
+`pthread_cleanap_pop(*func)` 

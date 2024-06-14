@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "21d62c951ef1d50a",
+        "id": "7373afae92868ecd",
         "type": "tabs",
         "children": [
           {
-            "id": "8f8291708633cc57",
+            "id": "04fb3d0b6931359e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/11. Container With Most Water.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": true
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/11. Container With Most Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/11. Container With Most Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Structures and Algorithms/LeetCode/TwoPointers/11. Container With Most Water.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,18 +150,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f8291708633cc57",
+  "active": "04fb3d0b6931359e",
   "lastOpenFiles": [
+    "Multithreading/POSIX Threads.md",
+    "Multithreading/билеты.md",
+    "Data Structures and Algorithms/LeetCode/TwoPointers/167. Two Sum II - Input Array Is Sorted.md",
     "Data Structures and Algorithms/LeetCode/TwoPointers/15. 3Sum.md",
+    "Data Structures and Algorithms/LeetCode/Array and Hashing/49. Group Anagrams.md",
+    "Data Structures and Algorithms/LeetCode/TwoPointers/11. Container With Most Water.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/pthread_test_cancel().md",
+    "Templates/pthread_join(thread).md",
+    "Templates/pthread_cleanup_push.md",
+    "Templates/pthread_cleanup_push(func).md",
+    "Templates/pthread_cleanap_pop(func).md",
+    "Templates/pthread_cancel(thread).md",
+    "Templates",
+    "Multithreading",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/238. Product of Array Except Self.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/217. Contains Duplicate.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/128. Longest Consecutive Sequence.md",
-    "Data Structures and Algorithms/LeetCode/Array and Hashing/49. Group Anagrams.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/36. Valid Sudoku.md",
-    "Data Structures and Algorithms/LeetCode/TwoPointers/11. Container With Most Water.md",
     "Data Structures and Algorithms/LeetCode/TwoPointers/Two Pointers.md",
     "Data Structures and Algorithms/LeetCode/TwoPointers/125. Valid Palindrome.md",
-    "Data Structures and Algorithms/LeetCode/TwoPointers/167. Two Sum II - Input Array Is Sorted.md",
     "media/Pasted image 20240612180806.png",
     "media/Pasted image 20240611230138.png",
     "media/Pasted image 20240612170026.png",
@@ -185,19 +191,12 @@
     "Data Structures and Algorithms/LeetCode/Linked List/Linked List.md",
     "Data Structures and Algorithms/LeetCode/Array and Hashing/1. Two Sum.md",
     "Excalidraw/Drawing 2024-06-10 22.42.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-10 22.39.54.excalidraw.md",
     "Excalidraw",
-    "sdgfsdgdsdgsdg.md",
-    "2024-06-09.md",
-    "().md",
     "media",
     "Data Structures and Algorithms/LeetCode/Linked List",
     "Data Structures and Algorithms/LeetCode/Array and Hashing",
     "Data Structures and Algorithms/LeetCode",
-    "Data Structures and Algorithms/Без названия.md",
     "Data Structures and Algorithms",
-    "Test.md",
-    "test/test2.md",
     "test"
   ]
 }
