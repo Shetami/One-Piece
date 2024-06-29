@@ -1,3 +1,5 @@
-| Задача                             | Сложность                         | Тэги задачи  | Ссылка на задачу в LeetCode                                                |
-| ---------------------------------- | --------------------------------- | ------------ | -------------------------------------------------------------------------- |
-| [[121. Best Time to Buy and Sell]] | <font color="#00b050">Easy</font> | `Array` `DP` | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ |
+| Задача                                                | Сложность                           | Тэги задачи                          | Ссылка на задачу в LeetCode                                                               |
+| ----------------------------------------------------- | ----------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------- |
+| [[121. Best Time to Buy and Sell]]                    | <font color="#00b050">Easy</font>   | `Array` `DP`                         | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/                |
+| [[3. Longest Substring Without Repeating Characters]] | <font color="#ffff00">Medium</font> | `HashTable` `String` `SlidingWindow` | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ |
+| [[424. Longest Repeating Character Replacement]]      | <font color="#ffff00">Medium</font> | `HashTable` `String` `SlidingWindow` | https://leetcode.com/problems/longest-repeating-character-replacement/description/        |
